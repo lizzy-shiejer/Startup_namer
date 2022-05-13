@@ -6,7 +6,7 @@ A new Flutter practical project.
 
 This is a simple program that display a list of english words that can be saved or unsaved
 
-## Packages
+# Package used 
 
 english_words
 
