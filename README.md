@@ -1,5 +1,5 @@
-# Startup Namer
-
+# Project name
+Startup Namer.
 A new Flutter practical project.
 
 # About 
