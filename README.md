@@ -1,16 +1,19 @@
-# startup_namer
+# Startup Namer
 
-A new Flutter project.
+A new Flutter practical project.
 
-## Getting Started
+# About 
 
-This project is a starting point for a Flutter application.
+This is a simple program that display a list of english words that can be saved or unsaved
 
-A few resources to get you started if this is your first Flutter project:
+## Packages
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+english_words
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Language
+
+Flutter
+
+# Testing
+
+I have used android emulator for testing
